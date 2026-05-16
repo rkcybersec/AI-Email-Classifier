@@ -1,9 +1,7 @@
 **🚀 AI Smart Email Classifier & Intelligence Dashboard**
 
 
-**🌐 Live Demo**
-
-**👉 Click to use the app**
+**🌐 https://ai-email-classifier-uuh3ppjjyvlpbjq2hfvnec.streamlit.app/
 
 
 ****📌** Project Overview******
