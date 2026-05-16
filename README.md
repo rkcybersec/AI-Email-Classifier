@@ -96,7 +96,7 @@ F1 Score| Optimized
 
 **⚙️ Run Locally**
 
-git clone https://github.com/ramakrishna595/ai-email-classifier.git
+git clone https://github.com/rkcybersec/ai-email-classifier.git
 cd ai-email-classifier
 pip install -r requirements.txt
 streamlit run dashboard_app.py
