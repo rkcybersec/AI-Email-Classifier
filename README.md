@@ -110,22 +110,23 @@ streamlit run dashboard_app.py
 - 📬 Real-time email integration (Gmail API)
 - 🎨 Advanced UI/UX improvements
 
+- 
+## 📸 Project Screenshots
 
- ## 📸 Project Screenshots
-
-### 🏠 Home Interface
-<img width="100%" alt="Home Page" src="screenshots/home-page.png">
-
----
-
-### 🧠 Email Classification Result
-<img width="100%" alt="Classification Result" src="screenshots/email-classification.png">
+### 🏠 Home Page
+![Home Page](home-page.png)
 
 ---
 
-### 📊 Prediction Dashboard
-<img width="100%" alt="Dashboard" src="screenshots/prediction-result.png">
+### 🧠 Email Classification
+![Email Classification](email-classification.png)
 
+---
+
+### 📊 Prediction Result
+![Prediction Result](prediction-result.png)
+
+ 
 **👨‍💻 Author**
 
 Ramakrishna Enjapuri
