@@ -111,21 +111,6 @@ streamlit run dashboard_app.py
 - 🎨 Advanced UI/UX improvements
 
 
-## 📸 Project Screenshots
-
-### 🏠 Home Interface
-<img width="100%" alt="Home Page" src="screenshots/home-page.png">
-
----
-
-### 🧠 Email Classification Result
-<img width="100%" alt="Classification Result" src="screenshots/email-classification.png">
-
----
-
-### 📊 Prediction Dashboard
-<img width="100%" alt="Dashboard" src="screenshots/prediction-result.png">
-
  
 
 **👨‍💻 Author**
